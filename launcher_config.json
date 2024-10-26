@@ -14,6 +14,6 @@
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/johnsoncwb/otserver-client/releases/tag/1.0/download/tibia-client.zip",
+	"newClientUrl" : "https://github.com/johnsoncwb/otserver-client/releases/download/1.0/tibia-client.zip",
 	"clientExecutable": "client.exe"
 }
