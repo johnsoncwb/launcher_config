@@ -14,6 +14,6 @@
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/johnsoncwb/otserver-client/releases/download/1.0.1/dagalera-client.zip",
+	"newClientUrl" : "https://github.com/johnsoncwb/otserver-client/releases/download/1.0.2/tibia.zip",
 	"clientExecutable": "client.exe"
 }
